@@ -1,2 +1,1 @@
-# Dozz
-My personal repository
+# About Me
