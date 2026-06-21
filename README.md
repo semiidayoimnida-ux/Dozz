@@ -11,4 +11,4 @@
 *3. Building myself*
 
 > "They don't ask much of you. They only want you to hate the things you love and to love the things you despise."
->                   -Boris Pasternak
+-Boris Pasternak
